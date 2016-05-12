@@ -1,2 +1,2 @@
 # strong-password-generator
-A function to generate strong passwords
+A simple class that generates strong passwords
