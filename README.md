@@ -1,2 +1,2 @@
 # strong-password-generator
-A simple class that generates strong passwords
+A simple PHP class that generates strong passwords
